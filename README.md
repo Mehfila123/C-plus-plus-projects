@@ -3,9 +3,9 @@
 C++ is a powerful and widely-used programming language known for its performance and versatility. 
 It is an extension of the C programming language and includes object-oriented features, making it suitable for a wide range of applications from system software to game development. 
 
-# Key features
+<h2>Key features</h2> 
 
-<h2>Object-Oriented Programming (OOP)</h2>
+<h3>Object-Oriented Programming (OOP)</h3>
 
 <p>
 Classes and Objects: Allows encapsulation of data and functions that operate on the data.
