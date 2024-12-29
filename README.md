@@ -1,15 +1,25 @@
 # C++ language 
-c ++ language
+
 C++ is a powerful and widely-used programming language known for its performance and versatility. 
 It is an extension of the C programming language and includes object-oriented features, making it suitable for a wide range of applications from system software to game development. 
 
 # Key features
-<b>Object-Oriented Programming (OOP)</b>
+
+<h2>Object-Oriented Programming (OOP)</h2>
+
+<p>
 Classes and Objects: Allows encapsulation of data and functions that operate on the data.
+<br>
 Inheritance: Enables the creation of new classes based on existing ones, promoting code reusability.
+<br>
 Polymorphism: Allows functions to operate differently based on their input data types.
+<br>
 Encapsulation: Hides the internal state of objects and only allows manipulation through specific methods.
+<br>
 Abstraction: Simplifies complex systems by modeling classes appropriate to the problem.
+</p>
+
+
 
 2. Performance and Efficiency
 Low-Level Memory Manipulation: C++ provides features to directly manipulate memory using pointers, giving fine-grained control over resource management.
